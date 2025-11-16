@@ -1,2 +1,2 @@
 # ACSII-Image-Creator
-It is my repository with Ascii image creator.
+Welcome ASCII Image Creator!
