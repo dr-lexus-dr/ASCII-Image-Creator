@@ -1,2 +1,2 @@
-# ACSII-Image-Creator
+# ASCII-Image-Creator
 Welcome ASCII Image Creator!
